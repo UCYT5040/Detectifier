@@ -1,0 +1,21 @@
+{
+    "python" : [".py"],
+    "compiled_python" : [".pyc"],
+    "text" : [".txt", ".text"],
+    "executable" : [".exe"],
+    "batch" : [".bat"],
+    "shell" : [".sh"],
+    "javascript" : [".js"],
+    "json" : [".json"],
+    "yaml" : [".yaml"],
+    "xml" : [".xml"],
+    "html" : [".html"],
+    "css" : [".css"],
+    "png" : [".png"],
+    "jpeg" : [".jpg", ".jpeg"],
+    "email" : [".eml"],
+    "c" : [".c"],
+    "c#" : [".cs", ".cspro"],
+    "log" : [".log"],
+    "data" : [".data", ".dat"]
+}
